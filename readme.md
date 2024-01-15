@@ -65,4 +65,4 @@ Este projeto está licenciado sob a licença GPL-2.0 - consulte o arquivo [LICEN
 
 ## Contato
 
-- Discord: toddydeveloper
+- Discord: bremado
